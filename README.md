@@ -8,6 +8,7 @@
 ## 圖片
 
 <img width="1440" alt="截圖" src="https://github.com/user-attachments/assets/be6cd9ac-6df7-4f14-b8a4-5a5d26394296">
+<img width="1437" alt="截圖 2024-08-08 下午4 20 30" src="https://github.com/user-attachments/assets/cb472daf-ddb9-48c7-9e93-5435c5bd4ea0">
 
 
 ## 功能介紹
